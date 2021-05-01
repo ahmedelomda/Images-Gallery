@@ -1,13 +1,16 @@
-* {
-    background-color: bisque;
-}
+/* * {
+    /* background-color: bisque; */
+
 
 .img-grid {
-    padding: 10px;
-    padding: 40px;
+    padding: 40px 60px;
     text-align: center;
 } 
 
+.img-grid .grid-parent {
+    margin-top: 30px;
+}
+/*
 .selected {
     width: 300px;
     height: 300px;
@@ -18,7 +21,4 @@
     width: 170px;
     height: 110px;
 }
-
-@media () {
-    
-}
+ */
